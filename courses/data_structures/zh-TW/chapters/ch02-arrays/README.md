@@ -1,4 +1,4 @@
-# Chapter 2 · 陣列、稀疏矩陣與字串
+# 第 2 章　陣列、稀疏矩陣與字串
 
 [教用播放版](slides-teaching.pdf) · [講義版（上下兩張）](slides-handout.pdf) · [練習題](exercises.pdf) · [詳解](solutions.pdf)
 

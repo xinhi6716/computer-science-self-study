@@ -1,4 +1,4 @@
-# Chapter 3 · 堆疊與佇列
+# 第 3 章　堆疊與佇列
 
 [教用播放版](slides-teaching.pdf) · [講義版（上下兩張）](slides-handout.pdf) · [練習題](exercises.pdf) · [詳解](solutions.pdf)
 

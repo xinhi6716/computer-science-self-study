@@ -1,4 +1,4 @@
-# Chapter 8 · 雜湊
+# 第 8 章　雜湊
 
 [教用播放版](slides-teaching.pdf) · [講義版（上下兩張）](slides-handout.pdf) · [練習題](exercises.pdf) · [詳解](solutions.pdf)
 

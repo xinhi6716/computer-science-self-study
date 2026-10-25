@@ -1,4 +1,4 @@
-# Chapter 9 · 進階優先權佇列
+# 第 9 章　進階優先權佇列
 
 [教用播放版](slides-teaching.pdf) · [講義版（上下兩張）](slides-handout.pdf) · [練習題](exercises.pdf) · [詳解](solutions.pdf)
 
