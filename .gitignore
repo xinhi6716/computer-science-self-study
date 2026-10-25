@@ -1,0 +1,14 @@
+*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/LICENSE
+!/courses/
+!/courses/**/
+!/courses/**/README.md
+!/courses/**/slides-teaching.pdf
+!/courses/**/slides-handout.pdf
+!/courses/**/exercises.pdf
+!/courses/**/solutions.pdf
+!/courses/*/zh-TW/complete-handout.pdf
+!/courses/*/en/complete-handout.pdf
