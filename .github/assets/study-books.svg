@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-labelledby="title desc">
+<title id="title">Six little books for six computer science subjects</title>
+<desc id="desc">Pastel book characters show sorting bars, a relation diagram, a matrix, a processor, memory pages, and a search tree.</desc>
+<rect x="2" y="2" width="1276" height="296" rx="24" fill="#fff9ef" stroke="#e4d8c6" stroke-width="2"/>
+<g stroke="#e9e0d2" stroke-width="1"><path d="M24 82H1256 M24 142H1256 M24 202H1256 M24 262H1256"/></g>
+<g fill="none" stroke="#d5aa76" stroke-width="3" stroke-linecap="round"><path d="M34 25v13m-6-6h12M1233 28v12m-6-6h12M640 20v12m-6-6h12"/></g>
+
+<g transform="translate(125,0)" stroke="#34465b" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+<ellipse cx="0" cy="239" rx="68" ry="9" fill="#d8d1c4" opacity=".4" stroke="none"/>
+<path d="M-62 139q-17 7-12 25 M62 139q17 7 12 25" fill="none"/>
+<rect x="-64" y="54" width="128" height="174" rx="13" fill="#bdddf2"/>
+<path d="M-50 55v172" stroke="#ffffff" opacity=".65"/>
+<path d="M42 54v21h22" fill="#fffdf8"/>
+<path d="M42 54l22 21" fill="none"/>
+<path d="M-24 228l-7 9 M24 228l7 9" fill="none"/>
+<circle cx="-17" cy="187" r="3.4" fill="#34465b" stroke="none"/><circle cx="17" cy="187" r="3.4" fill="#34465b" stroke="none"/>
+<path d="M-9 202q9 10 18 0" fill="none"/><ellipse cx="-29" cy="196" rx="8" ry="4" fill="#e99aa8" stroke="none" opacity=".55"/><ellipse cx="29" cy="196" rx="8" ry="4" fill="#e99aa8" stroke="none" opacity=".55"/>
+
+<g fill="#5d96bd" stroke="none"><rect x="-43" y="104" width="10" height="42" rx="3"/><rect x="-28" y="126" width="10" height="20" rx="3"/><rect x="-13" y="114" width="10" height="32" rx="3"/><rect x="16" y="126" width="10" height="20" rx="3"/><rect x="31" y="114" width="10" height="32" rx="3"/><rect x="46" y="104" width="10" height="42" rx="3"/></g><path d="M1 119h9m-4-4 5 4-5 4" fill="none"/>
+<text x="0" y="278" fill="#34465b" stroke="none" font-family="Trebuchet MS,Arial,sans-serif" font-size="20" text-anchor="middle">Algorithms</text></g>
+<g transform="translate(330,0)" stroke="#34465b" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+<ellipse cx="0" cy="239" rx="68" ry="9" fill="#d8d1c4" opacity=".4" stroke="none"/>
+<path d="M-62 139q-17 7-12 25 M62 139q17 7 12 25" fill="none"/>
+<rect x="-64" y="54" width="128" height="174" rx="13" fill="#ffd4b8"/>
+<path d="M-50 55v172" stroke="#ffffff" opacity=".65"/>
+<path d="M42 54v21h22" fill="#fffdf8"/>
+<path d="M42 54l22 21" fill="none"/>
+<path d="M-24 228l-7 9 M24 228l7 9" fill="none"/>
+<circle cx="-17" cy="187" r="3.4" fill="#34465b" stroke="none"/><circle cx="17" cy="187" r="3.4" fill="#34465b" stroke="none"/>
+<path d="M-9 202q9 10 18 0" fill="none"/><ellipse cx="-29" cy="196" rx="8" ry="4" fill="#e99aa8" stroke="none" opacity=".55"/><ellipse cx="29" cy="196" rx="8" ry="4" fill="#e99aa8" stroke="none" opacity=".55"/>
+
+<path d="M0 91-28 119 0 148 28 119Z" fill="none"/><g fill="#fff9ef"><circle cx="0" cy="91" r="8"/><circle cx="-28" cy="119" r="8"/><circle cx="28" cy="119" r="8"/><circle cx="0" cy="148" r="8"/></g>
+<text x="0" y="278" fill="#34465b" stroke="none" font-family="Trebuchet MS,Arial,sans-serif" font-size="20" text-anchor="middle">Discrete math</text></g>
+<g transform="translate(535,0)" stroke="#34465b" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+<ellipse cx="0" cy="239" rx="68" ry="9" fill="#d8d1c4" opacity=".4" stroke="none"/>
+<path d="M-62 139q-17 7-12 25 M62 139q17 7 12 25" fill="none"/>
+<rect x="-64" y="54" width="128" height="174" rx="13" fill="#c7e8d6"/>
+<path d="M-50 55v172" stroke="#ffffff" opacity=".65"/>
+<path d="M42 54v21h22" fill="#fffdf8"/>
+<path d="M42 54l22 21" fill="none"/>
+<path d="M-24 228l-7 9 M24 228l7 9" fill="none"/>
+<circle cx="-17" cy="187" r="3.4" fill="#34465b" stroke="none"/><circle cx="17" cy="187" r="3.4" fill="#34465b" stroke="none"/>
+<path d="M-9 202q9 10 18 0" fill="none"/><ellipse cx="-29" cy="196" rx="8" ry="4" fill="#e99aa8" stroke="none" opacity=".55"/><ellipse cx="29" cy="196" rx="8" ry="4" fill="#e99aa8" stroke="none" opacity=".55"/>
+
+<path d="M-42 91h-8v59h8 M42 91h8v59h-8" fill="none"/><g fill="#5a9b7a" stroke="none"><circle cx="-25" cy="100" r="4.5"/><circle cx="-25" cy="121" r="4.5"/><circle cx="-25" cy="142" r="4.5"/><circle cx="0" cy="100" r="4.5"/><circle cx="0" cy="121" r="4.5"/><circle cx="0" cy="142" r="4.5"/><circle cx="25" cy="100" r="4.5"/><circle cx="25" cy="121" r="4.5"/><circle cx="25" cy="142" r="4.5"/></g>
+<text x="0" y="278" fill="#34465b" stroke="none" font-family="Trebuchet MS,Arial,sans-serif" font-size="20" text-anchor="middle">Linear algebra</text></g>
+<g transform="translate(740,0)" stroke="#34465b" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+<ellipse cx="0" cy="239" rx="68" ry="9" fill="#d8d1c4" opacity=".4" stroke="none"/>
+<path d="M-62 139q-17 7-12 25 M62 139q17 7 12 25" fill="none"/>
+<rect x="-64" y="54" width="128" height="174" rx="13" fill="#fae6aa"/>
+<path d="M-50 55v172" stroke="#ffffff" opacity=".65"/>
+<path d="M42 54v21h22" fill="#fffdf8"/>
+<path d="M42 54l22 21" fill="none"/>
+<path d="M-24 228l-7 9 M24 228l7 9" fill="none"/>
+<circle cx="-17" cy="187" r="3.4" fill="#34465b" stroke="none"/><circle cx="17" cy="187" r="3.4" fill="#34465b" stroke="none"/>
+<path d="M-9 202q9 10 18 0" fill="none"/><ellipse cx="-29" cy="196" rx="8" ry="4" fill="#e99aa8" stroke="none" opacity=".55"/><ellipse cx="29" cy="196" rx="8" ry="4" fill="#e99aa8" stroke="none" opacity=".55"/>
+
+<rect x="-29" y="96" width="58" height="50" rx="6" fill="#fff9ef"/><rect x="-14" y="109" width="28" height="24" rx="3" fill="#d5b25b" stroke="none"/><path d="M-39 105h10m-10 16h10m-10 16h10m58-32h10m-10 16h10m-10 16h10m-56-51v10m18-10v10m18-10v10m-36 50v10m18-10v10m18-10v10" fill="none"/>
+<text x="0" y="278" fill="#34465b" stroke="none" font-family="Trebuchet MS,Arial,sans-serif" font-size="20" text-anchor="middle">Computer org.</text></g>
+<g transform="translate(945,0)" stroke="#34465b" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+<ellipse cx="0" cy="239" rx="68" ry="9" fill="#d8d1c4" opacity=".4" stroke="none"/>
+<path d="M-62 139q-17 7-12 25 M62 139q17 7 12 25" fill="none"/>
+<rect x="-64" y="54" width="128" height="174" rx="13" fill="#dcd2f0"/>
+<path d="M-50 55v172" stroke="#ffffff" opacity=".65"/>
+<path d="M42 54v21h22" fill="#fffdf8"/>
+<path d="M42 54l22 21" fill="none"/>
+<path d="M-24 228l-7 9 M24 228l7 9" fill="none"/>
+<circle cx="-17" cy="187" r="3.4" fill="#34465b" stroke="none"/><circle cx="17" cy="187" r="3.4" fill="#34465b" stroke="none"/>
+<path d="M-9 202q9 10 18 0" fill="none"/><ellipse cx="-29" cy="196" rx="8" ry="4" fill="#e99aa8" stroke="none" opacity=".55"/><ellipse cx="29" cy="196" rx="8" ry="4" fill="#e99aa8" stroke="none" opacity=".55"/>
+
+<rect x="-40" y="91" width="51" height="44" rx="5" fill="#fff9ef"/><rect x="-19" y="105" width="51" height="44" rx="5" fill="#eee8fa"/><rect x="2" y="119" width="42" height="38" rx="5" fill="#fff9ef"/><path d="M11 131h23m-23 10h15" fill="none"/>
+<text x="0" y="278" fill="#34465b" stroke="none" font-family="Trebuchet MS,Arial,sans-serif" font-size="20" text-anchor="middle">Operating sys.</text></g>
+<g transform="translate(1150,0)" stroke="#34465b" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+<ellipse cx="0" cy="239" rx="68" ry="9" fill="#d8d1c4" opacity=".4" stroke="none"/>
+<path d="M-62 139q-17 7-12 25 M62 139q17 7 12 25" fill="none"/>
+<rect x="-64" y="54" width="128" height="174" rx="13" fill="#f3ccd9"/>
+<path d="M-50 55v172" stroke="#ffffff" opacity=".65"/>
+<path d="M42 54v21h22" fill="#fffdf8"/>
+<path d="M42 54l22 21" fill="none"/>
+<path d="M-24 228l-7 9 M24 228l7 9" fill="none"/>
+<circle cx="-17" cy="187" r="3.4" fill="#34465b" stroke="none"/><circle cx="17" cy="187" r="3.4" fill="#34465b" stroke="none"/>
+<path d="M-9 202q9 10 18 0" fill="none"/><ellipse cx="-29" cy="196" rx="8" ry="4" fill="#e99aa8" stroke="none" opacity=".55"/><ellipse cx="29" cy="196" rx="8" ry="4" fill="#e99aa8" stroke="none" opacity=".55"/>
+
+<path d="M0 104-31 143M0 104l31 39" fill="none"/><g fill="#fff9ef"><circle cx="0" cy="104" r="15"/><circle cx="-31" cy="143" r="15"/><circle cx="31" cy="143" r="15"/></g><g fill="#34465b" stroke="none" font-size="16" font-family="Arial,sans-serif" text-anchor="middle"><text x="0" y="110">8</text><text x="-31" y="149">4</text><text x="31" y="149">12</text></g>
+<text x="0" y="278" fill="#34465b" stroke="none" font-family="Trebuchet MS,Arial,sans-serif" font-size="20" text-anchor="middle">Data structures</text></g>
+</svg>

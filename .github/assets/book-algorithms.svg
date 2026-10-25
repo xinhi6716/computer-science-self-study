@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="168" height="203" viewBox="-84 45 168 203"><title>Algorithms book</title><g transform="translate(0,0)" stroke="#34465b" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+<ellipse cx="0" cy="239" rx="68" ry="9" fill="#d8d1c4" opacity=".4" stroke="none"/>
+<path d="M-62 139q-17 7-12 25 M62 139q17 7 12 25" fill="none"/>
+<rect x="-64" y="54" width="128" height="174" rx="13" fill="#bdddf2"/>
+<path d="M-50 55v172" stroke="#ffffff" opacity=".65"/>
+<path d="M42 54v21h22" fill="#fffdf8"/>
+<path d="M42 54l22 21" fill="none"/>
+<path d="M-24 228l-7 9 M24 228l7 9" fill="none"/>
+<circle cx="-17" cy="187" r="3.4" fill="#34465b" stroke="none"/><circle cx="17" cy="187" r="3.4" fill="#34465b" stroke="none"/>
+<path d="M-9 202q9 10 18 0" fill="none"/><ellipse cx="-29" cy="196" rx="8" ry="4" fill="#e99aa8" stroke="none" opacity=".55"/><ellipse cx="29" cy="196" rx="8" ry="4" fill="#e99aa8" stroke="none" opacity=".55"/>
+<g fill="#5d96bd" stroke="none"><rect x="-43" y="104" width="10" height="42" rx="3"/><rect x="-28" y="126" width="10" height="20" rx="3"/><rect x="-13" y="114" width="10" height="32" rx="3"/><rect x="16" y="126" width="10" height="20" rx="3"/><rect x="31" y="114" width="10" height="32" rx="3"/><rect x="46" y="104" width="10" height="42" rx="3"/></g><path d="M1 119h9m-4-4 5 4-5 4" fill="none"/></g></svg>

@@ -12,3 +12,14 @@
 !/courses/**/solutions.pdf
 !/courses/*/zh-TW/complete-handout.pdf
 !/courses/*/en/complete-handout.pdf
+!/README.en.md
+!/.github/
+!/.github/assets/
+!/.github/assets/book-algorithms.svg
+!/.github/assets/book-computer_organization.svg
+!/.github/assets/book-data_structures.svg
+!/.github/assets/book-discrete_mathematics.svg
+!/.github/assets/book-linear_algebra.svg
+!/.github/assets/book-operating_systems.svg
+!/.github/assets/study-books.svg
+!/.github/assets/study-divider.svg
