@@ -4,9 +4,9 @@
 
 **[Download the full course handout](complete-handout.pdf)**
 
-Read by the prerequisite order below. The first two chapters integrate analysis/correctness and recursion/divide-and-conquer. Later topics currently link to the existing source units and will be integrated chapter by chapter; their original textbook numbers remain for lookup.
+Read by the prerequisite order below. The first three chapters integrate analysis/correctness, recursion/divide-and-conquer, and sorting/selection/randomized analysis. Later topics currently link to the existing source units and will be integrated chapter by chapter; their original textbook numbers remain for lookup.
 
-Chapters 1–2 have 16:9 teaching slides and an A4 handout laid out as two 4:3 pages per sheet. The handout groups related material while retaining the definitions, proofs, and examples. Later units retain their earlier layouts until revised. Exercises and worked solutions are separate.
+Chapters 1–3 have 16:9 teaching slides and an A4 handout laid out as two 4:3 pages per sheet. The handout groups related material while retaining the definitions, proofs, and examples. Later units retain their earlier layouts until revised. Exercises and worked solutions are separate.
 
 [1. Algorithm Analysis and Correctness](#analysis) · [2. Recursion, Recurrences, and Divide-and-Conquer](#recurrence) · [3. Sorting, Selection, and Randomized Analysis](#sorting) · [4. Data Structures and Amortized Analysis](#structures) · [5. Dynamic Programming](#dp) · [6. Greedy Algorithms](#greedy) · [7. Graph Traversal and Connectivity](#traversal) · [8. Minimum Spanning Trees and Shortest Paths](#paths) · [9. Network Flow](#flow) · [10. Computational Geometry](#geometry) · [11. Complexity and Approximation](#complexity) · [12. String Matching](#strings) · [13. Matrix Operations and FFT](#matrixfft) · [14. Number-Theoretic Algorithms](#number) · [15. Linear Programming](#lp) · [16. Parallel Algorithms](#parallel) · [Reference Appendices](#appendices)
 
@@ -32,11 +32,7 @@ Chapters 1–2 have 16:9 teaching slides and an A4 handout laid out as two 4:3 p
 
 | Topic | Slides PDF | Exercises and solutions |
 |---|---|---|
-| [05 · Probabilistic analysis and randomized algorithms](chapters/ch05-probabilistic-analysis/README.md) | [Teaching](chapters/ch05-probabilistic-analysis/slides-teaching.pdf) · [Handout](chapters/ch05-probabilistic-analysis/slides-handout.pdf) | [Exercises](chapters/ch05-probabilistic-analysis/exercises.pdf) · [Solutions](chapters/ch05-probabilistic-analysis/solutions.pdf) |
-| [06 · Heapsort](chapters/ch06-heapsort/README.md) | [Teaching](chapters/ch06-heapsort/slides-teaching.pdf) · [Handout](chapters/ch06-heapsort/slides-handout.pdf) | [Exercises](chapters/ch06-heapsort/exercises.pdf) · [Solutions](chapters/ch06-heapsort/solutions.pdf) |
-| [07 · Quicksort](chapters/ch07-quicksort/README.md) | [Teaching](chapters/ch07-quicksort/slides-teaching.pdf) · [Handout](chapters/ch07-quicksort/slides-handout.pdf) | [Exercises](chapters/ch07-quicksort/exercises.pdf) · [Solutions](chapters/ch07-quicksort/solutions.pdf) |
-| [08 · Sorting in linear time](chapters/ch08-sorting-in-linear-time/README.md) | [Teaching](chapters/ch08-sorting-in-linear-time/slides-teaching.pdf) · [Handout](chapters/ch08-sorting-in-linear-time/slides-handout.pdf) | [Exercises](chapters/ch08-sorting-in-linear-time/exercises.pdf) · [Solutions](chapters/ch08-sorting-in-linear-time/solutions.pdf) |
-| [09 · Medians and order statistics](chapters/ch09-medians-order-statistics/README.md) | [Teaching](chapters/ch09-medians-order-statistics/slides-teaching.pdf) · [Handout](chapters/ch09-medians-order-statistics/slides-handout.pdf) | [Exercises](chapters/ch09-medians-order-statistics/exercises.pdf) · [Solutions](chapters/ch09-medians-order-statistics/solutions.pdf) |
+| [Sorting, Selection, and Randomized Analysis](chapters/ch03-sorting-selection-randomization/README.md) | [Teaching](chapters/ch03-sorting-selection-randomization/slides-teaching.pdf) · [Handout](chapters/ch03-sorting-selection-randomization/slides-handout.pdf) | [Exercises](chapters/ch03-sorting-selection-randomization/exercises.pdf) · [Solutions](chapters/ch03-sorting-selection-randomization/solutions.pdf) |
 
 <a id="structures"></a>
 
