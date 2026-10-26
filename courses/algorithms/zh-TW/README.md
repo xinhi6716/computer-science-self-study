@@ -105,7 +105,7 @@
 
 | 主題入口 | 投影片 PDF | 題解 PDF |
 |---|---|---|
-| [32 字串匹配](chapters/ch32-string-matching/README.md) | [播放](chapters/ch32-string-matching/slides-teaching.pdf) · [講義](chapters/ch32-string-matching/slides-handout.pdf) | [練習](chapters/ch32-string-matching/exercises.pdf) · [詳解](chapters/ch32-string-matching/solutions.pdf) |
+| [字串比對](chapters/ch12-string-matching/README.md) | [播放](chapters/ch12-string-matching/slides-teaching.pdf) · [講義](chapters/ch12-string-matching/slides-handout.pdf) | [練習](chapters/ch12-string-matching/exercises.pdf) · [詳解](chapters/ch12-string-matching/solutions.pdf) |
 
 <a id="matrixfft"></a>
 

@@ -105,7 +105,7 @@ Chapters 1–10 have 16:9 teaching slides and an A4 handout laid out as two 4:3 
 
 | Topic | Slides PDF | Exercises and solutions |
 |---|---|---|
-| [32 · String matching](chapters/ch32-string-matching/README.md) | [Teaching](chapters/ch32-string-matching/slides-teaching.pdf) · [Handout](chapters/ch32-string-matching/slides-handout.pdf) | [Exercises](chapters/ch32-string-matching/exercises.pdf) · [Solutions](chapters/ch32-string-matching/solutions.pdf) |
+| [String Matching](chapters/ch12-string-matching/README.md) | [Teaching](chapters/ch12-string-matching/slides-teaching.pdf) · [Handout](chapters/ch12-string-matching/slides-handout.pdf) | [Exercises](chapters/ch12-string-matching/exercises.pdf) · [Solutions](chapters/ch12-string-matching/solutions.pdf) |
 
 <a id="matrixfft"></a>
 
