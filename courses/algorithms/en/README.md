@@ -4,9 +4,9 @@
 
 **[Download the full course handout](complete-handout.pdf)**
 
-Read by the prerequisite order below. The first ten chapters integrate analysis/correctness, recursion/divide-and-conquer, sorting/selection/randomized analysis, data structures/amortized analysis, dynamic programming, greedy methods, graph traversal and connectivity, minimum spanning trees and shortest paths, network flow, and computational geometry. Chapter 11 also integrates complexity and approximation. Other later topics currently link to the existing source units and will be integrated chapter by chapter; their original textbook numbers remain for lookup.
+Read by the prerequisite order below. The first ten chapters integrate analysis/correctness, recursion/divide-and-conquer, sorting/selection/randomized analysis, data structures/amortized analysis, dynamic programming, greedy methods, graph traversal and connectivity, minimum spanning trees and shortest paths, network flow, and computational geometry. Chapters 11 and 12 also integrate complexity and approximation, and string matching. Other later topics currently link to the existing source units and will be integrated chapter by chapter; their original textbook numbers remain for lookup.
 
-Chapters 1–10 have 16:9 teaching slides and an A4 handout laid out as two 4:3 pages per sheet. The handout groups related material while retaining the definitions, proofs, and examples. Chapter 11 also has these editions. Other later units retain their earlier layouts until revised. Exercises and worked solutions are separate.
+Chapters 1–10 have 16:9 teaching slides and an A4 handout laid out as two 4:3 pages per sheet. The handout groups related material while retaining the definitions, proofs, and examples. Chapters 11 and 12 also have these editions. Other later units retain their earlier layouts until revised. Exercises and worked solutions are separate.
 
 [1. Algorithm Analysis and Correctness](#analysis) · [2. Recursion, Recurrences, and Divide-and-Conquer](#recurrence) · [3. Sorting, Selection, and Randomized Analysis](#sorting) · [4. Data Structures and Amortized Analysis](#structures) · [5. Dynamic Programming](#dp) · [6. Greedy Algorithms](#greedy) · [7. Graph Traversal and Connectivity](#traversal) · [8. Minimum Spanning Trees and Shortest Paths](#paths) · [9. Network Flow](#flow) · [10. Computational Geometry](#geometry) · [11. Complexity and Approximation](#complexity) · [12. String Matching](#strings) · [13. Matrix Operations and FFT](#matrixfft) · [14. Number-Theoretic Algorithms](#number) · [15. Linear Programming](#lp) · [16. Parallel Algorithms](#parallel) · [Reference Appendices](#appendices)
 
@@ -41,6 +41,7 @@ Chapters 1–10 have 16:9 teaching slides and an A4 handout laid out as two 4:3 
 | Topic | Slides PDF | Exercises and solutions |
 |---|---|---|
 | [Data Structures and Amortized Analysis](chapters/ch04-data-structures-amortized/README.md) | [Teaching](chapters/ch04-data-structures-amortized/slides-teaching.pdf) · [Handout](chapters/ch04-data-structures-amortized/slides-handout.pdf) | [Exercises](chapters/ch04-data-structures-amortized/exercises.pdf) · [Solutions](chapters/ch04-data-structures-amortized/solutions.pdf) |
+| [Disjoint Sets: Advanced Analysis](chapters/ch21-disjoint-sets/README.md) | [Teaching](chapters/ch21-disjoint-sets/slides-teaching.pdf) · [Handout](chapters/ch21-disjoint-sets/slides-handout.pdf) | [Exercises](chapters/ch21-disjoint-sets/exercises.pdf) · [Solutions](chapters/ch21-disjoint-sets/solutions.pdf) |
 
 <a id="dp"></a>
 
@@ -70,9 +71,10 @@ Chapters 1–10 have 16:9 teaching slides and an A4 handout laid out as two 4:3 
 
 ## 8. Minimum Spanning Trees and Shortest Paths
 
+Kruskal’s algorithm uses disjoint sets. For the analysis, see the [advanced unit in Chapter 4](chapters/ch21-disjoint-sets/README.md).
+
 | Topic | Slides PDF | Exercises and solutions |
 |---|---|---|
-| [21 · Disjoint sets](chapters/ch21-disjoint-sets/README.md) | [Teaching](chapters/ch21-disjoint-sets/slides-teaching.pdf) · [Handout](chapters/ch21-disjoint-sets/slides-handout.pdf) | [Exercises](chapters/ch21-disjoint-sets/exercises.pdf) · [Solutions](chapters/ch21-disjoint-sets/solutions.pdf) |
 | [Minimum Spanning Trees and Shortest Paths](chapters/ch08-mst-shortest-paths/README.md) | [Teaching](chapters/ch08-mst-shortest-paths/slides-teaching.pdf) · [Handout](chapters/ch08-mst-shortest-paths/slides-handout.pdf) | [Exercises](chapters/ch08-mst-shortest-paths/exercises.pdf) · [Solutions](chapters/ch08-mst-shortest-paths/solutions.pdf) |
 
 <a id="flow"></a>

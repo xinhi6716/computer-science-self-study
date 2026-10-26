@@ -1,6 +1,6 @@
 # 最小生成樹與最短路徑
 
-Kruskal 與 Prim、單源與全點對最短路徑。不相交集合的完整操作、路徑壓縮與精細分析保留於同組的[不相交集合單元](../ch21-disjoint-sets/README.md)。
+Kruskal 與 Prim、單源與全點對最短路徑。不相交集合的完整操作、路徑壓縮與精細分析收錄於第四章的[不相交集合進階分析](../ch21-disjoint-sets/README.md)。
 
 [教用播放版](slides-teaching.pdf) · [A4 講義](slides-handout.pdf)
 

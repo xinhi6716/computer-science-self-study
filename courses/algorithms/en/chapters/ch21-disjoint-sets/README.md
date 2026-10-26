@@ -1,4 +1,4 @@
-# Disjoint sets
+# Disjoint Sets: Advanced Analysis
 
 [Teaching slides](slides-teaching.pdf) · [2-up handout](slides-handout.pdf) · [Exercises](exercises.pdf) · [Solutions](solutions.pdf)
 

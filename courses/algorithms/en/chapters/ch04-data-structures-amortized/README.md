@@ -8,6 +8,8 @@ Start with stacks, queues, and sequence costs; then study hashing, BSTs, red-bla
 
 The chapter distinguishes record identity, handles, shared sentinels, interval endpoints, B-tree order versus minimum degree, and n versus universe size u. Expected, amortized, and worst-case bounds retain their own assumptions. Differences from the data-structures course are explained where the conventions diverge.
 
+Further reading: [Disjoint Sets: Advanced Analysis](../ch21-disjoint-sets/README.md), including path compression and the inverse-Ackermann amortized bound.
+
 [Chapter index](../../README.md) · [Course home](../../../README.md)
 
 Reference textbook: Cormen, Leiserson, Rivest, Stein, *Introduction to Algorithms*, 3rd Edition, Chapters 10–14 and 17–20.

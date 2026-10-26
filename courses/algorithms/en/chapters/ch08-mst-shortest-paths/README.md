@@ -1,6 +1,6 @@
 # Minimum Spanning Trees and Shortest Paths
 
-Kruskal and Prim, single-source and all-pairs shortest paths. Complete disjoint-set operations, path compression, and the detailed analysis remain in the [disjoint sets unit](../ch21-disjoint-sets/README.md) in the same group.
+Kruskal and Prim, single-source and all-pairs shortest paths. Complete disjoint-set operations, path compression, and the detailed analysis remain in the [advanced disjoint sets unit](../ch21-disjoint-sets/README.md) in Chapter 4.
 
 [Teaching slides](slides-teaching.pdf) · [A4 handout](slides-handout.pdf)
 

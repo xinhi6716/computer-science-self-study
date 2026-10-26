@@ -4,9 +4,9 @@
 
 **[下載整科完整版講義](complete-handout.pdf)**
 
-依下列順序學習。前十章已整合分析與正確性、遞迴與分治、排序與隨機分析、資料結構與攤銷分析、動態規劃、貪心方法、圖的走訪與連通、最小生成樹與最短路徑、網路流、計算幾何；第十一章也已整合計算複雜度與近似；其餘後續主題目前連到既有單元，會隨逐章修訂繼續整合，原書章號保留供查找。
+依下列順序學習。前十章已整合分析與正確性、遞迴與分治、排序與隨機分析、資料結構與攤銷分析、動態規劃、貪心方法、圖的走訪與連通、最小生成樹與最短路徑、網路流、計算幾何；第十一、十二章也已整合計算複雜度與近似、字串比對；其餘後續主題目前連到既有單元，會隨逐章修訂繼續整合，原書章號保留供查找。
 
-前十章提供 16:9 播放版，以及每張紙上下各一頁 4:3 的 A4 講義；講義合併相依內容，保留定義、證明與數例。第十一章也提供這些版本；其餘後續單元暫沿用原版面，隨逐章修訂更新。練習與詳解各自獨立，建議先作答再對照。
+前十章提供 16:9 播放版，以及每張紙上下各一頁 4:3 的 A4 講義；講義合併相依內容，保留定義、證明與數例。第十一、十二章也提供這些版本；其餘後續單元暫沿用原版面，隨逐章修訂更新。練習與詳解各自獨立，建議先作答再對照。
 
 [一、演算法分析與正確性](#analysis) · [二、遞迴、遞迴式與分治](#recurrence) · [三、排序、選擇與隨機分析](#sorting) · [四、資料結構與攤銷分析](#structures) · [五、動態規劃](#dp) · [六、貪心方法](#greedy) · [七、圖的走訪與連通](#traversal) · [八、最小生成樹與最短路徑](#paths) · [九、網路流](#flow) · [十、計算幾何](#geometry) · [十一、計算複雜度與近似](#complexity) · [十二、字串比對](#strings) · [十三、矩陣運算與 FFT](#matrixfft) · [十四、數論演算法](#number) · [十五、線性規劃](#lp) · [十六、平行演算法](#parallel) · [查用附錄](#appendices)
 
@@ -41,6 +41,7 @@
 | 主題入口 | 投影片 PDF | 題解 PDF |
 |---|---|---|
 | [資料結構與攤銷分析](chapters/ch04-data-structures-amortized/README.md) | [播放](chapters/ch04-data-structures-amortized/slides-teaching.pdf) · [講義](chapters/ch04-data-structures-amortized/slides-handout.pdf) | [練習](chapters/ch04-data-structures-amortized/exercises.pdf) · [詳解](chapters/ch04-data-structures-amortized/solutions.pdf) |
+| [不相交集合：進階分析](chapters/ch21-disjoint-sets/README.md) | [播放](chapters/ch21-disjoint-sets/slides-teaching.pdf) · [講義](chapters/ch21-disjoint-sets/slides-handout.pdf) | [練習](chapters/ch21-disjoint-sets/exercises.pdf) · [詳解](chapters/ch21-disjoint-sets/solutions.pdf) |
 
 <a id="dp"></a>
 
@@ -70,9 +71,10 @@
 
 ## 八、最小生成樹與最短路徑
 
+Kruskal 演算法使用不相交集合；需要複習時，可先讀第四章的[進階分析](chapters/ch21-disjoint-sets/README.md)。
+
 | 主題入口 | 投影片 PDF | 題解 PDF |
 |---|---|---|
-| [21 不相交集合](chapters/ch21-disjoint-sets/README.md) | [播放](chapters/ch21-disjoint-sets/slides-teaching.pdf) · [講義](chapters/ch21-disjoint-sets/slides-handout.pdf) | [練習](chapters/ch21-disjoint-sets/exercises.pdf) · [詳解](chapters/ch21-disjoint-sets/solutions.pdf) |
 | [最小生成樹與最短路徑](chapters/ch08-mst-shortest-paths/README.md) | [播放](chapters/ch08-mst-shortest-paths/slides-teaching.pdf) · [講義](chapters/ch08-mst-shortest-paths/slides-handout.pdf) | [練習](chapters/ch08-mst-shortest-paths/exercises.pdf) · [詳解](chapters/ch08-mst-shortest-paths/solutions.pdf) |
 
 <a id="flow"></a>

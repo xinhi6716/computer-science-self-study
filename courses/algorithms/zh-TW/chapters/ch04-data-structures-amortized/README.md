@@ -8,6 +8,8 @@
 
 記錄身分、handle、共用 NIL、區間端點、B-tree 的 order 與最小度數，以及節點數 n 和 universe 大小 u，都有各自明確的定義。期望、攤銷與最壞界分開推導；與資料結構科目採用不同表示法的地方，正文提供對照。
 
+延伸閱讀：[不相交集合：進階分析](../ch21-disjoint-sets/README.md)，包含路徑壓縮與反 Ackermann 攤銷界的證明。
+
 [章節目錄](../../README.md) · [科目首頁](../../../README.md)
 
 參考用書：Cormen, Leiserson, Rivest, Stein, *Introduction to Algorithms*, 3rd Edition, Chapters 10–14 and 17–20.
