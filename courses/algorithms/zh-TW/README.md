@@ -4,9 +4,9 @@
 
 **[下載整科完整版講義](complete-handout.pdf)**
 
-依下列順序學習。前十章已整合分析與正確性、遞迴與分治、排序與隨機分析、資料結構與攤銷分析、動態規劃、貪心方法、圖的走訪與連通、最小生成樹與最短路徑、網路流、計算幾何；後續主題目前連到既有單元，會隨逐章修訂繼續整合，原書章號保留供查找。
+依下列順序學習。前十章已整合分析與正確性、遞迴與分治、排序與隨機分析、資料結構與攤銷分析、動態規劃、貪心方法、圖的走訪與連通、最小生成樹與最短路徑、網路流、計算幾何；第十一章也已整合計算複雜度與近似；其餘後續主題目前連到既有單元，會隨逐章修訂繼續整合，原書章號保留供查找。
 
-前十章提供 16:9 播放版，以及每張紙上下各一頁 4:3 的 A4 講義；講義合併相依內容，保留定義、證明與數例。後續單元暫沿用原版面，隨逐章修訂更新。練習與詳解各自獨立，建議先作答再對照。
+前十章提供 16:9 播放版，以及每張紙上下各一頁 4:3 的 A4 講義；講義合併相依內容，保留定義、證明與數例。第十一章也提供這些版本；其餘後續單元暫沿用原版面，隨逐章修訂更新。練習與詳解各自獨立，建議先作答再對照。
 
 [一、演算法分析與正確性](#analysis) · [二、遞迴、遞迴式與分治](#recurrence) · [三、排序、選擇與隨機分析](#sorting) · [四、資料結構與攤銷分析](#structures) · [五、動態規劃](#dp) · [六、貪心方法](#greedy) · [七、圖的走訪與連通](#traversal) · [八、最小生成樹與最短路徑](#paths) · [九、網路流](#flow) · [十、計算幾何](#geometry) · [十一、計算複雜度與近似](#complexity) · [十二、字串比對](#strings) · [十三、矩陣運算與 FFT](#matrixfft) · [十四、數論演算法](#number) · [十五、線性規劃](#lp) · [十六、平行演算法](#parallel) · [查用附錄](#appendices)
 
@@ -97,8 +97,7 @@
 
 | 主題入口 | 投影片 PDF | 題解 PDF |
 |---|---|---|
-| [34 NP 完備性](chapters/ch34-np-completeness/README.md) | [播放](chapters/ch34-np-completeness/slides-teaching.pdf) · [講義](chapters/ch34-np-completeness/slides-handout.pdf) | [練習](chapters/ch34-np-completeness/exercises.pdf) · [詳解](chapters/ch34-np-completeness/solutions.pdf) |
-| [35 近似演算法](chapters/ch35-approximation-algorithms/README.md) | [播放](chapters/ch35-approximation-algorithms/slides-teaching.pdf) · [講義](chapters/ch35-approximation-algorithms/slides-handout.pdf) | [練習](chapters/ch35-approximation-algorithms/exercises.pdf) · [詳解](chapters/ch35-approximation-algorithms/solutions.pdf) |
+| [計算複雜度與近似](chapters/ch11-complexity-approximation/README.md) | [播放](chapters/ch11-complexity-approximation/slides-teaching.pdf) · [講義](chapters/ch11-complexity-approximation/slides-handout.pdf) | [練習](chapters/ch11-complexity-approximation/exercises.pdf) · [詳解](chapters/ch11-complexity-approximation/solutions.pdf) |
 
 <a id="strings"></a>
 
