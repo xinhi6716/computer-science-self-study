@@ -18,7 +18,7 @@
 
 | 章節入口 | 投影片 PDF | 題解 PDF |
 |---|---|---|
-| [第 1 章　基本概念](chapters/ch01-basic-concepts/README.md) | [播放](chapters/ch01-basic-concepts/slides-teaching.pdf) · [講義](chapters/ch01-basic-concepts/slides-handout.pdf) | [練習](chapters/ch01-basic-concepts/exercises.pdf) · [詳解](chapters/ch01-basic-concepts/solutions.pdf) |
+| [第 1 章　ADT、正確性與成本](chapters/ch01-basic-concepts/README.md) | [播放](chapters/ch01-basic-concepts/slides-teaching.pdf) · [講義](chapters/ch01-basic-concepts/slides-handout.pdf) | [練習](chapters/ch01-basic-concepts/exercises.pdf) · [詳解](chapters/ch01-basic-concepts/solutions.pdf) |
 
 <a id="linear-structures"></a>
 

@@ -18,7 +18,7 @@ Start with ADTs, invariants, and cost models to establish what each operation pr
 
 | Chapter | Slide PDFs | Practice PDFs |
 |---|---|---|
-| [Chapter 1 · Basic concepts](chapters/ch01-basic-concepts/README.md) | [Teaching](chapters/ch01-basic-concepts/slides-teaching.pdf) · [Handout](chapters/ch01-basic-concepts/slides-handout.pdf) | [Exercises](chapters/ch01-basic-concepts/exercises.pdf) · [Solutions](chapters/ch01-basic-concepts/solutions.pdf) |
+| [Chapter 1 · ADTs, correctness, and cost](chapters/ch01-basic-concepts/README.md) | [Teaching](chapters/ch01-basic-concepts/slides-teaching.pdf) · [Handout](chapters/ch01-basic-concepts/slides-handout.pdf) | [Exercises](chapters/ch01-basic-concepts/exercises.pdf) · [Solutions](chapters/ch01-basic-concepts/solutions.pdf) |
 
 <a id="linear-structures"></a>
 
