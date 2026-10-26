@@ -4,9 +4,9 @@
 
 **[Download the full course handout](complete-handout.pdf)**
 
-Read by the prerequisite order below. The first three chapters integrate analysis/correctness, recursion/divide-and-conquer, and sorting/selection/randomized analysis. Later topics currently link to the existing source units and will be integrated chapter by chapter; their original textbook numbers remain for lookup.
+Read by the prerequisite order below. The first four chapters integrate analysis/correctness, recursion/divide-and-conquer, sorting/selection/randomized analysis, and data structures/amortized analysis. Later topics currently link to the existing source units and will be integrated chapter by chapter; their original textbook numbers remain for lookup.
 
-Chapters 1–3 have 16:9 teaching slides and an A4 handout laid out as two 4:3 pages per sheet. The handout groups related material while retaining the definitions, proofs, and examples. Later units retain their earlier layouts until revised. Exercises and worked solutions are separate.
+Chapters 1–4 have 16:9 teaching slides and an A4 handout laid out as two 4:3 pages per sheet. The handout groups related material while retaining the definitions, proofs, and examples. Later units retain their earlier layouts until revised. Exercises and worked solutions are separate.
 
 [1. Algorithm Analysis and Correctness](#analysis) · [2. Recursion, Recurrences, and Divide-and-Conquer](#recurrence) · [3. Sorting, Selection, and Randomized Analysis](#sorting) · [4. Data Structures and Amortized Analysis](#structures) · [5. Dynamic Programming](#dp) · [6. Greedy Algorithms](#greedy) · [7. Graph Traversal and Connectivity](#traversal) · [8. Minimum Spanning Trees and Shortest Paths](#paths) · [9. Network Flow](#flow) · [10. Computational Geometry](#geometry) · [11. Complexity and Approximation](#complexity) · [12. String Matching](#strings) · [13. Matrix Operations and FFT](#matrixfft) · [14. Number-Theoretic Algorithms](#number) · [15. Linear Programming](#lp) · [16. Parallel Algorithms](#parallel) · [Reference Appendices](#appendices)
 
@@ -40,15 +40,7 @@ Chapters 1–3 have 16:9 teaching slides and an A4 handout laid out as two 4:3 p
 
 | Topic | Slides PDF | Exercises and solutions |
 |---|---|---|
-| [10 · Elementary data structures](chapters/ch10-elementary-data-structures/README.md) | [Teaching](chapters/ch10-elementary-data-structures/slides-teaching.pdf) · [Handout](chapters/ch10-elementary-data-structures/slides-handout.pdf) | [Exercises](chapters/ch10-elementary-data-structures/exercises.pdf) · [Solutions](chapters/ch10-elementary-data-structures/solutions.pdf) |
-| [11 · Hash tables](chapters/ch11-hash-tables/README.md) | [Teaching](chapters/ch11-hash-tables/slides-teaching.pdf) · [Handout](chapters/ch11-hash-tables/slides-handout.pdf) | [Exercises](chapters/ch11-hash-tables/exercises.pdf) · [Solutions](chapters/ch11-hash-tables/solutions.pdf) |
-| [12 · Binary search trees](chapters/ch12-binary-search-trees/README.md) | [Teaching](chapters/ch12-binary-search-trees/slides-teaching.pdf) · [Handout](chapters/ch12-binary-search-trees/slides-handout.pdf) | [Exercises](chapters/ch12-binary-search-trees/exercises.pdf) · [Solutions](chapters/ch12-binary-search-trees/solutions.pdf) |
-| [13 · Red-black trees](chapters/ch13-red-black-trees/README.md) | [Teaching](chapters/ch13-red-black-trees/slides-teaching.pdf) · [Handout](chapters/ch13-red-black-trees/slides-handout.pdf) | [Exercises](chapters/ch13-red-black-trees/exercises.pdf) · [Solutions](chapters/ch13-red-black-trees/solutions.pdf) |
-| [14 · Augmenting data structures](chapters/ch14-augmenting-data-structures/README.md) | [Teaching](chapters/ch14-augmenting-data-structures/slides-teaching.pdf) · [Handout](chapters/ch14-augmenting-data-structures/slides-handout.pdf) | [Exercises](chapters/ch14-augmenting-data-structures/exercises.pdf) · [Solutions](chapters/ch14-augmenting-data-structures/solutions.pdf) |
-| [17 · Amortized analysis](chapters/ch17-amortized-analysis/README.md) | [Teaching](chapters/ch17-amortized-analysis/slides-teaching.pdf) · [Handout](chapters/ch17-amortized-analysis/slides-handout.pdf) | [Exercises](chapters/ch17-amortized-analysis/exercises.pdf) · [Solutions](chapters/ch17-amortized-analysis/solutions.pdf) |
-| [18 · B-trees](chapters/ch18-b-trees/README.md) | [Teaching](chapters/ch18-b-trees/slides-teaching.pdf) · [Handout](chapters/ch18-b-trees/slides-handout.pdf) | [Exercises](chapters/ch18-b-trees/exercises.pdf) · [Solutions](chapters/ch18-b-trees/solutions.pdf) |
-| [19 · Fibonacci heaps](chapters/ch19-fibonacci-heaps/README.md) | [Teaching](chapters/ch19-fibonacci-heaps/slides-teaching.pdf) · [Handout](chapters/ch19-fibonacci-heaps/slides-handout.pdf) | [Exercises](chapters/ch19-fibonacci-heaps/exercises.pdf) · [Solutions](chapters/ch19-fibonacci-heaps/solutions.pdf) |
-| [20 · van Emde Boas trees](chapters/ch20-van-emde-boas-trees/README.md) | [Teaching](chapters/ch20-van-emde-boas-trees/slides-teaching.pdf) · [Handout](chapters/ch20-van-emde-boas-trees/slides-handout.pdf) | [Exercises](chapters/ch20-van-emde-boas-trees/exercises.pdf) · [Solutions](chapters/ch20-van-emde-boas-trees/solutions.pdf) |
+| [Data Structures and Amortized Analysis](chapters/ch04-data-structures-amortized/README.md) | [Teaching](chapters/ch04-data-structures-amortized/slides-teaching.pdf) · [Handout](chapters/ch04-data-structures-amortized/slides-handout.pdf) | [Exercises](chapters/ch04-data-structures-amortized/exercises.pdf) · [Solutions](chapters/ch04-data-structures-amortized/solutions.pdf) |
 
 <a id="dp"></a>
 

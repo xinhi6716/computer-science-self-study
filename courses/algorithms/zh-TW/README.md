@@ -4,9 +4,9 @@
 
 **[下載整科完整版講義](complete-handout.pdf)**
 
-依下列順序學習。前三章已整合分析與正確性、遞迴與分治、排序與隨機分析；後續主題目前連到既有單元，會隨逐章修訂繼續整合，原書章號保留供查找。
+依下列順序學習。前四章已整合分析與正確性、遞迴與分治、排序與隨機分析、資料結構與攤銷分析；後續主題目前連到既有單元，會隨逐章修訂繼續整合，原書章號保留供查找。
 
-前三章提供 16:9 播放版，以及每張紙上下各一頁 4:3 的 A4 講義；講義合併相依內容，保留定義、證明與數例。後續單元暫沿用原版面，隨逐章修訂更新。練習與詳解各自獨立，建議先作答再對照。
+前四章提供 16:9 播放版，以及每張紙上下各一頁 4:3 的 A4 講義；講義合併相依內容，保留定義、證明與數例。後續單元暫沿用原版面，隨逐章修訂更新。練習與詳解各自獨立，建議先作答再對照。
 
 [一、演算法分析與正確性](#analysis) · [二、遞迴、遞迴式與分治](#recurrence) · [三、排序、選擇與隨機分析](#sorting) · [四、資料結構與攤銷分析](#structures) · [五、動態規劃](#dp) · [六、貪心方法](#greedy) · [七、圖的走訪與連通](#traversal) · [八、最小生成樹與最短路徑](#paths) · [九、網路流](#flow) · [十、計算幾何](#geometry) · [十一、計算複雜度與近似](#complexity) · [十二、字串比對](#strings) · [十三、矩陣運算與 FFT](#matrixfft) · [十四、數論演算法](#number) · [十五、線性規劃](#lp) · [十六、平行演算法](#parallel) · [查用附錄](#appendices)
 
@@ -40,15 +40,7 @@
 
 | 主題入口 | 投影片 PDF | 題解 PDF |
 |---|---|---|
-| [10 基本資料結構](chapters/ch10-elementary-data-structures/README.md) | [播放](chapters/ch10-elementary-data-structures/slides-teaching.pdf) · [講義](chapters/ch10-elementary-data-structures/slides-handout.pdf) | [練習](chapters/ch10-elementary-data-structures/exercises.pdf) · [詳解](chapters/ch10-elementary-data-structures/solutions.pdf) |
-| [11 雜湊表](chapters/ch11-hash-tables/README.md) | [播放](chapters/ch11-hash-tables/slides-teaching.pdf) · [講義](chapters/ch11-hash-tables/slides-handout.pdf) | [練習](chapters/ch11-hash-tables/exercises.pdf) · [詳解](chapters/ch11-hash-tables/solutions.pdf) |
-| [12 二元搜尋樹](chapters/ch12-binary-search-trees/README.md) | [播放](chapters/ch12-binary-search-trees/slides-teaching.pdf) · [講義](chapters/ch12-binary-search-trees/slides-handout.pdf) | [練習](chapters/ch12-binary-search-trees/exercises.pdf) · [詳解](chapters/ch12-binary-search-trees/solutions.pdf) |
-| [13 紅黑樹](chapters/ch13-red-black-trees/README.md) | [播放](chapters/ch13-red-black-trees/slides-teaching.pdf) · [講義](chapters/ch13-red-black-trees/slides-handout.pdf) | [練習](chapters/ch13-red-black-trees/exercises.pdf) · [詳解](chapters/ch13-red-black-trees/solutions.pdf) |
-| [14 擴充資料結構](chapters/ch14-augmenting-data-structures/README.md) | [播放](chapters/ch14-augmenting-data-structures/slides-teaching.pdf) · [講義](chapters/ch14-augmenting-data-structures/slides-handout.pdf) | [練習](chapters/ch14-augmenting-data-structures/exercises.pdf) · [詳解](chapters/ch14-augmenting-data-structures/solutions.pdf) |
-| [17 攤銷分析](chapters/ch17-amortized-analysis/README.md) | [播放](chapters/ch17-amortized-analysis/slides-teaching.pdf) · [講義](chapters/ch17-amortized-analysis/slides-handout.pdf) | [練習](chapters/ch17-amortized-analysis/exercises.pdf) · [詳解](chapters/ch17-amortized-analysis/solutions.pdf) |
-| [18 B 樹](chapters/ch18-b-trees/README.md) | [播放](chapters/ch18-b-trees/slides-teaching.pdf) · [講義](chapters/ch18-b-trees/slides-handout.pdf) | [練習](chapters/ch18-b-trees/exercises.pdf) · [詳解](chapters/ch18-b-trees/solutions.pdf) |
-| [19 費氏堆積](chapters/ch19-fibonacci-heaps/README.md) | [播放](chapters/ch19-fibonacci-heaps/slides-teaching.pdf) · [講義](chapters/ch19-fibonacci-heaps/slides-handout.pdf) | [練習](chapters/ch19-fibonacci-heaps/exercises.pdf) · [詳解](chapters/ch19-fibonacci-heaps/solutions.pdf) |
-| [20 van Emde Boas 樹](chapters/ch20-van-emde-boas-trees/README.md) | [播放](chapters/ch20-van-emde-boas-trees/slides-teaching.pdf) · [講義](chapters/ch20-van-emde-boas-trees/slides-handout.pdf) | [練習](chapters/ch20-van-emde-boas-trees/exercises.pdf) · [詳解](chapters/ch20-van-emde-boas-trees/solutions.pdf) |
+| [資料結構與攤銷分析](chapters/ch04-data-structures-amortized/README.md) | [播放](chapters/ch04-data-structures-amortized/slides-teaching.pdf) · [講義](chapters/ch04-data-structures-amortized/slides-handout.pdf) | [練習](chapters/ch04-data-structures-amortized/exercises.pdf) · [詳解](chapters/ch04-data-structures-amortized/solutions.pdf) |
 
 <a id="dp"></a>
 
