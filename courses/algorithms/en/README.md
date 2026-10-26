@@ -4,9 +4,9 @@
 
 **[Download the full course handout](complete-handout.pdf)**
 
-Read by the prerequisite order below. The first four chapters integrate analysis/correctness, recursion/divide-and-conquer, sorting/selection/randomized analysis, and data structures/amortized analysis. Later topics currently link to the existing source units and will be integrated chapter by chapter; their original textbook numbers remain for lookup.
+Read by the prerequisite order below. The first five chapters integrate analysis/correctness, recursion/divide-and-conquer, sorting/selection/randomized analysis, data structures/amortized analysis, and dynamic programming. Later topics currently link to the existing source units and will be integrated chapter by chapter; their original textbook numbers remain for lookup.
 
-Chapters 1–4 have 16:9 teaching slides and an A4 handout laid out as two 4:3 pages per sheet. The handout groups related material while retaining the definitions, proofs, and examples. Later units retain their earlier layouts until revised. Exercises and worked solutions are separate.
+Chapters 1–5 have 16:9 teaching slides and an A4 handout laid out as two 4:3 pages per sheet. The handout groups related material while retaining the definitions, proofs, and examples. Later units retain their earlier layouts until revised. Exercises and worked solutions are separate.
 
 [1. Algorithm Analysis and Correctness](#analysis) · [2. Recursion, Recurrences, and Divide-and-Conquer](#recurrence) · [3. Sorting, Selection, and Randomized Analysis](#sorting) · [4. Data Structures and Amortized Analysis](#structures) · [5. Dynamic Programming](#dp) · [6. Greedy Algorithms](#greedy) · [7. Graph Traversal and Connectivity](#traversal) · [8. Minimum Spanning Trees and Shortest Paths](#paths) · [9. Network Flow](#flow) · [10. Computational Geometry](#geometry) · [11. Complexity and Approximation](#complexity) · [12. String Matching](#strings) · [13. Matrix Operations and FFT](#matrixfft) · [14. Number-Theoretic Algorithms](#number) · [15. Linear Programming](#lp) · [16. Parallel Algorithms](#parallel) · [Reference Appendices](#appendices)
 
@@ -48,7 +48,7 @@ Chapters 1–4 have 16:9 teaching slides and an A4 handout laid out as two 4:3 p
 
 | Topic | Slides PDF | Exercises and solutions |
 |---|---|---|
-| [15 · Dynamic programming](chapters/ch15-dynamic-programming/README.md) | [Teaching](chapters/ch15-dynamic-programming/slides-teaching.pdf) · [Handout](chapters/ch15-dynamic-programming/slides-handout.pdf) | [Exercises](chapters/ch15-dynamic-programming/exercises.pdf) · [Solutions](chapters/ch15-dynamic-programming/solutions.pdf) |
+| [Dynamic Programming](chapters/ch05-dynamic-programming/README.md) | [Teaching](chapters/ch05-dynamic-programming/slides-teaching.pdf) · [Handout](chapters/ch05-dynamic-programming/slides-handout.pdf) | [Exercises](chapters/ch05-dynamic-programming/exercises.pdf) · [Solutions](chapters/ch05-dynamic-programming/solutions.pdf) |
 
 <a id="greedy"></a>
 
