@@ -4,9 +4,9 @@
 
 **[Download the full course handout](complete-handout.pdf)**
 
-Read by the prerequisite order below. The first seven chapters integrate analysis/correctness, recursion/divide-and-conquer, sorting/selection/randomized analysis, data structures/amortized analysis, dynamic programming, greedy methods, and graph traversal and connectivity. Later topics currently link to the existing source units and will be integrated chapter by chapter; their original textbook numbers remain for lookup.
+Read by the prerequisite order below. The first eight chapters integrate analysis/correctness, recursion/divide-and-conquer, sorting/selection/randomized analysis, data structures/amortized analysis, dynamic programming, greedy methods, graph traversal and connectivity, and minimum spanning trees and shortest paths. Later topics currently link to the existing source units and will be integrated chapter by chapter; their original textbook numbers remain for lookup.
 
-Chapters 1–7 have 16:9 teaching slides and an A4 handout laid out as two 4:3 pages per sheet. The handout groups related material while retaining the definitions, proofs, and examples. Later units retain their earlier layouts until revised. Exercises and worked solutions are separate.
+Chapters 1–8 have 16:9 teaching slides and an A4 handout laid out as two 4:3 pages per sheet. The handout groups related material while retaining the definitions, proofs, and examples. Later units retain their earlier layouts until revised. Exercises and worked solutions are separate.
 
 [1. Algorithm Analysis and Correctness](#analysis) · [2. Recursion, Recurrences, and Divide-and-Conquer](#recurrence) · [3. Sorting, Selection, and Randomized Analysis](#sorting) · [4. Data Structures and Amortized Analysis](#structures) · [5. Dynamic Programming](#dp) · [6. Greedy Algorithms](#greedy) · [7. Graph Traversal and Connectivity](#traversal) · [8. Minimum Spanning Trees and Shortest Paths](#paths) · [9. Network Flow](#flow) · [10. Computational Geometry](#geometry) · [11. Complexity and Approximation](#complexity) · [12. String Matching](#strings) · [13. Matrix Operations and FFT](#matrixfft) · [14. Number-Theoretic Algorithms](#number) · [15. Linear Programming](#lp) · [16. Parallel Algorithms](#parallel) · [Reference Appendices](#appendices)
 
@@ -73,9 +73,7 @@ Chapters 1–7 have 16:9 teaching slides and an A4 handout laid out as two 4:3 p
 | Topic | Slides PDF | Exercises and solutions |
 |---|---|---|
 | [21 · Disjoint sets](chapters/ch21-disjoint-sets/README.md) | [Teaching](chapters/ch21-disjoint-sets/slides-teaching.pdf) · [Handout](chapters/ch21-disjoint-sets/slides-handout.pdf) | [Exercises](chapters/ch21-disjoint-sets/exercises.pdf) · [Solutions](chapters/ch21-disjoint-sets/solutions.pdf) |
-| [23 · Minimum spanning trees](chapters/ch23-minimum-spanning-trees/README.md) | [Teaching](chapters/ch23-minimum-spanning-trees/slides-teaching.pdf) · [Handout](chapters/ch23-minimum-spanning-trees/slides-handout.pdf) | [Exercises](chapters/ch23-minimum-spanning-trees/exercises.pdf) · [Solutions](chapters/ch23-minimum-spanning-trees/solutions.pdf) |
-| [24 · Single-source shortest paths](chapters/ch24-single-source-shortest-paths/README.md) | [Teaching](chapters/ch24-single-source-shortest-paths/slides-teaching.pdf) · [Handout](chapters/ch24-single-source-shortest-paths/slides-handout.pdf) | [Exercises](chapters/ch24-single-source-shortest-paths/exercises.pdf) · [Solutions](chapters/ch24-single-source-shortest-paths/solutions.pdf) |
-| [25 · All-pairs shortest paths](chapters/ch25-all-pairs-shortest-paths/README.md) | [Teaching](chapters/ch25-all-pairs-shortest-paths/slides-teaching.pdf) · [Handout](chapters/ch25-all-pairs-shortest-paths/slides-handout.pdf) | [Exercises](chapters/ch25-all-pairs-shortest-paths/exercises.pdf) · [Solutions](chapters/ch25-all-pairs-shortest-paths/solutions.pdf) |
+| [Minimum Spanning Trees and Shortest Paths](chapters/ch08-mst-shortest-paths/README.md) | [Teaching](chapters/ch08-mst-shortest-paths/slides-teaching.pdf) · [Handout](chapters/ch08-mst-shortest-paths/slides-handout.pdf) | [Exercises](chapters/ch08-mst-shortest-paths/exercises.pdf) · [Solutions](chapters/ch08-mst-shortest-paths/solutions.pdf) |
 
 <a id="flow"></a>
 
