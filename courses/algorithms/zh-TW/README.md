@@ -115,8 +115,7 @@ Kruskal 演算法使用不相交集合；需要複習時，可先讀第四章的
 
 | 主題入口 | 投影片 PDF | 題解 PDF |
 |---|---|---|
-| [28 矩陣運算](chapters/ch28-matrix-operations/README.md) | [播放](chapters/ch28-matrix-operations/slides-teaching.pdf) · [講義](chapters/ch28-matrix-operations/slides-handout.pdf) | [練習](chapters/ch28-matrix-operations/exercises.pdf) · [詳解](chapters/ch28-matrix-operations/solutions.pdf) |
-| [30 多項式與快速傅立葉轉換](chapters/ch30-polynomials-and-fft/README.md) | [播放](chapters/ch30-polynomials-and-fft/slides-teaching.pdf) · [講義](chapters/ch30-polynomials-and-fft/slides-handout.pdf) | [練習](chapters/ch30-polynomials-and-fft/exercises.pdf) · [詳解](chapters/ch30-polynomials-and-fft/solutions.pdf) |
+| [矩陣運算與 FFT](chapters/ch13-matrix-and-fft/README.md) | [播放](chapters/ch13-matrix-and-fft/slides-teaching.pdf) · [講義](chapters/ch13-matrix-and-fft/slides-handout.pdf) | [練習](chapters/ch13-matrix-and-fft/exercises.pdf) · [詳解](chapters/ch13-matrix-and-fft/solutions.pdf) |
 
 <a id="number"></a>
 

@@ -115,8 +115,7 @@ Kruskal’s algorithm uses disjoint sets. For the analysis, see the [advanced un
 
 | Topic | Slides PDF | Exercises and solutions |
 |---|---|---|
-| [28 · Matrix operations](chapters/ch28-matrix-operations/README.md) | [Teaching](chapters/ch28-matrix-operations/slides-teaching.pdf) · [Handout](chapters/ch28-matrix-operations/slides-handout.pdf) | [Exercises](chapters/ch28-matrix-operations/exercises.pdf) · [Solutions](chapters/ch28-matrix-operations/solutions.pdf) |
-| [30 · Polynomials and FFT](chapters/ch30-polynomials-and-fft/README.md) | [Teaching](chapters/ch30-polynomials-and-fft/slides-teaching.pdf) · [Handout](chapters/ch30-polynomials-and-fft/slides-handout.pdf) | [Exercises](chapters/ch30-polynomials-and-fft/exercises.pdf) · [Solutions](chapters/ch30-polynomials-and-fft/solutions.pdf) |
+| [Matrix Operations and FFT](chapters/ch13-matrix-and-fft/README.md) | [Teaching](chapters/ch13-matrix-and-fft/slides-teaching.pdf) · [Handout](chapters/ch13-matrix-and-fft/slides-handout.pdf) | [Exercises](chapters/ch13-matrix-and-fft/exercises.pdf) · [Solutions](chapters/ch13-matrix-and-fft/solutions.pdf) |
 
 <a id="number"></a>
 
