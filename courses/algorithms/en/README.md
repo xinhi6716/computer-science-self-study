@@ -4,9 +4,9 @@
 
 **[Download the full course handout](complete-handout.pdf)**
 
-Read by the prerequisite order below. The first six chapters integrate analysis/correctness, recursion/divide-and-conquer, sorting/selection/randomized analysis, data structures/amortized analysis, dynamic programming, and greedy methods. Later topics currently link to the existing source units and will be integrated chapter by chapter; their original textbook numbers remain for lookup.
+Read by the prerequisite order below. The first seven chapters integrate analysis/correctness, recursion/divide-and-conquer, sorting/selection/randomized analysis, data structures/amortized analysis, dynamic programming, greedy methods, and graph traversal and connectivity. Later topics currently link to the existing source units and will be integrated chapter by chapter; their original textbook numbers remain for lookup.
 
-Chapters 1–6 have 16:9 teaching slides and an A4 handout laid out as two 4:3 pages per sheet. The handout groups related material while retaining the definitions, proofs, and examples. Later units retain their earlier layouts until revised. Exercises and worked solutions are separate.
+Chapters 1–7 have 16:9 teaching slides and an A4 handout laid out as two 4:3 pages per sheet. The handout groups related material while retaining the definitions, proofs, and examples. Later units retain their earlier layouts until revised. Exercises and worked solutions are separate.
 
 [1. Algorithm Analysis and Correctness](#analysis) · [2. Recursion, Recurrences, and Divide-and-Conquer](#recurrence) · [3. Sorting, Selection, and Randomized Analysis](#sorting) · [4. Data Structures and Amortized Analysis](#structures) · [5. Dynamic Programming](#dp) · [6. Greedy Algorithms](#greedy) · [7. Graph Traversal and Connectivity](#traversal) · [8. Minimum Spanning Trees and Shortest Paths](#paths) · [9. Network Flow](#flow) · [10. Computational Geometry](#geometry) · [11. Complexity and Approximation](#complexity) · [12. String Matching](#strings) · [13. Matrix Operations and FFT](#matrixfft) · [14. Number-Theoretic Algorithms](#number) · [15. Linear Programming](#lp) · [16. Parallel Algorithms](#parallel) · [Reference Appendices](#appendices)
 
@@ -64,7 +64,7 @@ Chapters 1–6 have 16:9 teaching slides and an A4 handout laid out as two 4:3 p
 
 | Topic | Slides PDF | Exercises and solutions |
 |---|---|---|
-| [22 · Elementary graph algorithms](chapters/ch22-elementary-graph-algorithms/README.md) | [Teaching](chapters/ch22-elementary-graph-algorithms/slides-teaching.pdf) · [Handout](chapters/ch22-elementary-graph-algorithms/slides-handout.pdf) | [Exercises](chapters/ch22-elementary-graph-algorithms/exercises.pdf) · [Solutions](chapters/ch22-elementary-graph-algorithms/solutions.pdf) |
+| [Graph Traversal and Connectivity](chapters/ch07-graph-traversal-connectivity/README.md) | [Teaching](chapters/ch07-graph-traversal-connectivity/slides-teaching.pdf) · [Handout](chapters/ch07-graph-traversal-connectivity/slides-handout.pdf) | [Exercises](chapters/ch07-graph-traversal-connectivity/exercises.pdf) · [Solutions](chapters/ch07-graph-traversal-connectivity/solutions.pdf) |
 
 <a id="paths"></a>
 
