@@ -4,9 +4,9 @@
 
 **[Download the full course handout](complete-handout.pdf)**
 
-Read by the prerequisite order below. The first ten chapters integrate analysis/correctness, recursion/divide-and-conquer, sorting/selection/randomized analysis, data structures/amortized analysis, dynamic programming, greedy methods, graph traversal and connectivity, minimum spanning trees and shortest paths, network flow, and computational geometry. Chapters 11 and 12 also integrate complexity and approximation, and string matching. Other later topics currently link to the existing source units and will be integrated chapter by chapter; their original textbook numbers remain for lookup.
+Follow the prerequisite order below: start with analysis, sorting and data structures, then study graphs, complexity, matrices, number theory and parallel algorithms. Each of the sixteen topics has its own materials; reference appendices follow at the end.
 
-Chapters 1–10 have 16:9 teaching slides and an A4 handout laid out as two 4:3 pages per sheet. The handout groups related material while retaining the definitions, proofs, and examples. Chapters 11 and 12 also have these editions. Other later units retain their earlier layouts until revised. Exercises and worked solutions are separate.
+Each topic offers 16:9 teaching slides, an A4 two-up handout, separate exercises and worked solutions. From Chapter 13 onward, each handout panel also shows the teaching-slide range for its source card; a range is not a paragraph-by-paragraph match.
 
 [1. Algorithm Analysis and Correctness](#analysis) · [2. Recursion, Recurrences, and Divide-and-Conquer](#recurrence) · [3. Sorting, Selection, and Randomized Analysis](#sorting) · [4. Data Structures and Amortized Analysis](#structures) · [5. Dynamic Programming](#dp) · [6. Greedy Algorithms](#greedy) · [7. Graph Traversal and Connectivity](#traversal) · [8. Minimum Spanning Trees and Shortest Paths](#paths) · [9. Network Flow](#flow) · [10. Computational Geometry](#geometry) · [11. Complexity and Approximation](#complexity) · [12. String Matching](#strings) · [13. Matrix Operations and FFT](#matrixfft) · [14. Number-Theoretic Algorithms](#number) · [15. Linear Programming](#lp) · [16. Parallel Algorithms](#parallel) · [Reference Appendices](#appendices)
 
@@ -139,7 +139,7 @@ Kruskal’s algorithm uses disjoint sets. For the analysis, see the [advanced un
 
 | Topic | Slides PDF | Exercises and solutions |
 |---|---|---|
-| [27 · Multithreaded algorithms](chapters/ch27-multithreaded-algorithms/README.md) | [Teaching](chapters/ch27-multithreaded-algorithms/slides-teaching.pdf) · [Handout](chapters/ch27-multithreaded-algorithms/slides-handout.pdf) | [Exercises](chapters/ch27-multithreaded-algorithms/exercises.pdf) · [Solutions](chapters/ch27-multithreaded-algorithms/solutions.pdf) |
+| [Parallel Algorithms](chapters/ch16-parallel-algorithms/README.md) | [Teaching](chapters/ch16-parallel-algorithms/slides-teaching.pdf) · [Handout](chapters/ch16-parallel-algorithms/slides-handout.pdf) | [Exercises](chapters/ch16-parallel-algorithms/exercises.pdf) · [Solutions](chapters/ch16-parallel-algorithms/solutions.pdf) |
 
 <a id="appendices"></a>
 
