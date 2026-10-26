@@ -123,7 +123,7 @@ Kruskal’s algorithm uses disjoint sets. For the analysis, see the [advanced un
 
 | Topic | Slides PDF | Exercises and solutions |
 |---|---|---|
-| [31 · Number-theoretic algorithms](chapters/ch31-number-theoretic-algorithms/README.md) | [Teaching](chapters/ch31-number-theoretic-algorithms/slides-teaching.pdf) · [Handout](chapters/ch31-number-theoretic-algorithms/slides-handout.pdf) | [Exercises](chapters/ch31-number-theoretic-algorithms/exercises.pdf) · [Solutions](chapters/ch31-number-theoretic-algorithms/solutions.pdf) |
+| [Number-Theoretic Algorithms](chapters/ch14-number-theory/README.md) | [Teaching](chapters/ch14-number-theory/slides-teaching.pdf) · [Handout](chapters/ch14-number-theory/slides-handout.pdf) | [Exercises](chapters/ch14-number-theory/exercises.pdf) · [Solutions](chapters/ch14-number-theory/solutions.pdf) |
 
 <a id="lp"></a>
 

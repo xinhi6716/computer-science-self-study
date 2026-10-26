@@ -123,7 +123,7 @@ Kruskal 演算法使用不相交集合；需要複習時，可先讀第四章的
 
 | 主題入口 | 投影片 PDF | 題解 PDF |
 |---|---|---|
-| [31 數論演算法](chapters/ch31-number-theoretic-algorithms/README.md) | [播放](chapters/ch31-number-theoretic-algorithms/slides-teaching.pdf) · [講義](chapters/ch31-number-theoretic-algorithms/slides-handout.pdf) | [練習](chapters/ch31-number-theoretic-algorithms/exercises.pdf) · [詳解](chapters/ch31-number-theoretic-algorithms/solutions.pdf) |
+| [數論演算法](chapters/ch14-number-theory/README.md) | [播放](chapters/ch14-number-theory/slides-teaching.pdf) · [講義](chapters/ch14-number-theory/slides-handout.pdf) | [練習](chapters/ch14-number-theory/exercises.pdf) · [詳解](chapters/ch14-number-theory/solutions.pdf) |
 
 <a id="lp"></a>
 
