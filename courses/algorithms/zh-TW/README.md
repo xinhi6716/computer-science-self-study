@@ -131,7 +131,7 @@ Kruskal 演算法使用不相交集合；需要複習時，可先讀第四章的
 
 | 主題入口 | 投影片 PDF | 題解 PDF |
 |---|---|---|
-| [29 線性規劃](chapters/ch29-linear-programming/README.md) | [播放](chapters/ch29-linear-programming/slides-teaching.pdf) · [講義](chapters/ch29-linear-programming/slides-handout.pdf) | [練習](chapters/ch29-linear-programming/exercises.pdf) · [詳解](chapters/ch29-linear-programming/solutions.pdf) |
+| [線性規劃](chapters/ch15-linear-programming/README.md) | [播放](chapters/ch15-linear-programming/slides-teaching.pdf) · [講義](chapters/ch15-linear-programming/slides-handout.pdf) | [練習](chapters/ch15-linear-programming/exercises.pdf) · [詳解](chapters/ch15-linear-programming/solutions.pdf) |
 
 <a id="parallel"></a>
 

@@ -131,7 +131,7 @@ Kruskal’s algorithm uses disjoint sets. For the analysis, see the [advanced un
 
 | Topic | Slides PDF | Exercises and solutions |
 |---|---|---|
-| [29 · Linear programming](chapters/ch29-linear-programming/README.md) | [Teaching](chapters/ch29-linear-programming/slides-teaching.pdf) · [Handout](chapters/ch29-linear-programming/slides-handout.pdf) | [Exercises](chapters/ch29-linear-programming/exercises.pdf) · [Solutions](chapters/ch29-linear-programming/solutions.pdf) |
+| [Linear Programming](chapters/ch15-linear-programming/README.md) | [Teaching](chapters/ch15-linear-programming/slides-teaching.pdf) · [Handout](chapters/ch15-linear-programming/slides-handout.pdf) | [Exercises](chapters/ch15-linear-programming/exercises.pdf) · [Solutions](chapters/ch15-linear-programming/solutions.pdf) |
 
 <a id="parallel"></a>
 
