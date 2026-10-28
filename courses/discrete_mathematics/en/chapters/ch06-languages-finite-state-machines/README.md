@@ -1,8 +1,9 @@
-# Chapter 6. Languages and finite-state machines
+# Chapter 6 · Languages and finite-state machines
 
-[Teaching slides](slides-teaching.pdf) · [2-up handout](slides-handout.pdf) · [Exercises](exercises.pdf) · [Solutions](solutions.pdf)
+Understand languages and automata through strings, states, and invariants.
+
+[Teaching slides](slides-teaching.pdf) · [Handout, two per page](slides-handout.pdf) · [Exercises](exercises.pdf) · [Worked solutions](solutions.pdf)
 
 [Chapter index](../../README.md) · [Course home](../../../README.md)
 
-
-Lin Cing · [Discrete and Combinatorial Mathematics](https://github.com/xinhi6716/computer-science-self-study)
+Lin Cing · [Discrete Mathematics](https://github.com/xinhi6716/computer-science-self-study)
