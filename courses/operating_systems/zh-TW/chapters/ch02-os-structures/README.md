@@ -1,8 +1,9 @@
 # 第 2 章　作業系統結構
 
+追蹤系統呼叫、核心結構、I/O 完成與開機依賴的契約。
+
 [教用播放版](slides-teaching.pdf) · [講義版（上下兩張）](slides-handout.pdf) · [練習題](exercises.pdf) · [詳解](solutions.pdf)
 
 [章節目錄](../../README.md) · [科目首頁](../../../README.md)
-
 
 Lin Cing · [Operating Systems](https://github.com/xinhi6716/computer-science-self-study)
