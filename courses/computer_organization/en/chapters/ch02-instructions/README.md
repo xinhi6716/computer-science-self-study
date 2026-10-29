@@ -1,8 +1,9 @@
-# Chapter 2 Instructions, the language of the computer
+# Chapter 2 · Instructions and program execution
 
-[Teaching slides](slides-teaching.pdf) · [2-up handout](slides-handout.pdf) · [Exercises](exercises.pdf) · [Solutions](solutions.pdf)
+Study instruction encoding, memory addressing, control flow, calling conventions, and toolchains.
+
+[Teaching slides](slides-teaching.pdf) · [Handout, two per page](slides-handout.pdf) · [Exercises](exercises.pdf) · [Worked solutions](solutions.pdf)
 
 [Chapter index](../../README.md) · [Course home](../../../README.md)
-
 
 Lin Cing · [Computer Organization](https://github.com/xinhi6716/computer-science-self-study)
