@@ -1,11 +1,13 @@
 <h1 align="center">Computer science self-study notes</h1>
 <p align="center"><a href="README.md">繁體中文</a> · English</p>
 <p align="center"><img src=".github/assets/study-books.svg" alt="Six little books showing sorting, a relation diagram, a matrix, a processor, memory pages, and a search tree" width="1100" /></p>
-<p align="center"><a href="#courses">📚 Pick a course</a> · <a href="#reading">✏️ Read &amp; print</a> · <a href="#references">📖 References</a></p>
+<p align="center"><a href="#courses">📚 Pick a course</a> · <a href="#materials">🔬 Materials &amp; devices</a> · <a href="#reading">✏️ Read &amp; print</a> · <a href="#references">📖 References</a></p>
 
 Notes for six core computer science subjects, in Traditional Chinese and English. Download a full course or read individual chapters. Each chapter has separate exercises and worked solutions.
 
 Start with a chapter if you want to try the notes before downloading a full course.
+
+**Choose a route:** [Core CS foundations](#courses) · [From CS to RRAM and sputtering](#materials). The materials course is currently in Traditional Chinese.
 
 <a id="courses"></a>
 
@@ -53,6 +55,8 @@ Start with a chapter if you want to try the notes before downloading a full cour
 </div>
 
 <p align="center"><img src=".github/assets/study-divider.svg" alt="" width="850" /></p>
+
+<a id="materials"></a>
 
 ## Materials and device foundations
 

@@ -1,11 +1,13 @@
-<h1 align="center">資訊工程六科自學講義</h1>
+<h1 align="center">資訊工程與材料入門自學書架</h1>
 <p align="center">繁體中文 · <a href="README.en.md">English</a></p>
 <p align="center"><img src=".github/assets/study-books.svg" alt="六本小書，分別畫著排序、關係圖、矩陣、處理器、記憶體頁與搜尋樹" width="1100" /></p>
-<p align="center"><a href="#courses">📚 挑一科</a> · <a href="#reading">✏️ 怎麼讀</a> · <a href="#references">📖 參考用書</a></p>
+<p align="center"><a href="#courses">📚 挑一科</a> · <a href="#materials">🔬 材料與元件</a> · <a href="#reading">✏️ 怎麼讀</a> · <a href="#references">📖 參考用書</a></p>
 
 六科講義都放在這裡，有繁體中文和英文版。可以整本下載，也能按章節閱讀；每章的練習題和詳解分開放。
 
 第一次來，可以先從分章目錄挑一章讀讀看，再決定要不要下載整本。
+
+**選一條學習路線：** [補資訊工程基礎](#courses) · [CS 背景轉入 RRAM 與濺鍍](#materials)。材料課程目前提供繁體中文版。
 
 <a id="courses"></a>
 
@@ -53,6 +55,8 @@
 </div>
 
 <p align="center"><img src=".github/assets/study-divider.svg" alt="" width="850" /></p>
+
+<a id="materials"></a>
 
 ## 材料與元件入門
 
