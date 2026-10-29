@@ -1,8 +1,9 @@
-# Vectors and linear combinations
+# Chapter 1 · Vectors and linear combinations
 
-[Teaching slides](slides-teaching.pdf) · [2-up handout](slides-handout.pdf) · [Exercises](exercises.pdf) · [Solutions](solutions.pdf)
+Study vectors, linear combinations, matrix multiplication, and dot products.
+
+[Teaching slides](slides-teaching.pdf) · [Handout, two per page](slides-handout.pdf) · [Exercises](exercises.pdf) · [Worked solutions](solutions.pdf)
 
 [Chapter index](../../README.md) · [Course home](../../../README.md)
-
 
 Lin Cing · [Linear Algebra](https://github.com/xinhi6716/computer-science-self-study)
