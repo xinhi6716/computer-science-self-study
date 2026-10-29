@@ -1,0 +1,10 @@
+study_id/
+  README.txt                  # 問題、限制、存取與使用規則
+  plan/                       # 核准計畫及每次修訂
+  samples/                    # 樣品／批次／位置對照，不放私人聯絡資料
+  raw/                        # 不覆寫、不手動刪改
+  metadata/                   # 每個 run 對應一筆
+  analysis/                   # 腳本／試算表版本與執行說明
+  derived/                    # 清理、轉單位、抽取結果
+  figures/                    # 每張圖可追到資料與程式
+  qc/                         # 無效／中止／缺資料／稽核紀錄

@@ -1,0 +1,1 @@
+run_id,sample_id,device_id,cycle_index,point_index,timestamp,time_s,voltage_command_V,voltage_measured_V,current_A,compliance_flag,range_A,state_label,metadata_id

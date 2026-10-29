@@ -54,6 +54,10 @@
 
 <p align="center"><img src=".github/assets/study-divider.svg" alt="" width="850" /></p>
 
+## 材料與元件入門
+
+新增 [RRAM 材料與濺鍍八週課程](courses/rram_materials/zh-TW/README.md)，從零電學開始，前兩週準備進場，第 3 週銜接受指導實驗。包含 [56 天課表與權重](courses/rram_materials/zh-TW/study-plan.pdf)、分章投影片、列印講義、獨立題解與實驗紀錄模板。
+
 <a id="reading"></a>
 
 ## 怎麼讀、怎麼印 ✏️
@@ -102,3 +106,4 @@
 錯字、算式有問題，或某張圖怎麼看都不懂，都可以[開一個 issue](https://github.com/xinhi6716/computer-science-self-study/issues)。附上科目、語言、章節和 PDF 頁碼，說明卡在哪一步，會比較容易查。
 
 Lin Cing · [CC BY 4.0](LICENSE)。使用或改作時，請保留署名並連回本倉庫。
+

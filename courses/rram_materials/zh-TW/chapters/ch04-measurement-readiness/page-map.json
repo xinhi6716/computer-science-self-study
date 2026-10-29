@@ -1,0 +1,71 @@
+{
+  "deckId": "deck04_measurement_readiness",
+  "title": "量測、紀錄與實驗就緒",
+  "sourceSlideCount": 24,
+  "teachingPageCount": 23,
+  "handoutPageCount": 12,
+  "exercisePageCount": 1,
+  "solutionPageCount": 1,
+  "teachingPages": {
+    "L01": 1,
+    "L02": 2,
+    "L03": 3,
+    "L04": 4,
+    "L05": 5,
+    "L06": 6,
+    "L07": 7,
+    "L08": 8,
+    "L09": 9,
+    "L10": 10,
+    "L11": 11,
+    "L12": 12,
+    "L13": 13,
+    "L14": 14,
+    "L15": 15,
+    "L16": 16,
+    "L17": 17,
+    "L18": 18,
+    "L19": 19,
+    "L20": 20,
+    "L21": 21,
+    "L22": 22,
+    "L24": 23
+  },
+  "handoutPages": {
+    "L01": 1,
+    "L02": 1,
+    "L03": 2,
+    "L04": 2,
+    "L05": 3,
+    "L06": 3,
+    "L07": 4,
+    "L08": 4,
+    "L09": 5,
+    "L10": 5,
+    "L11": 6,
+    "L12": 6,
+    "L13": 7,
+    "L14": 7,
+    "L15": 8,
+    "L16": 8,
+    "L17": 9,
+    "L18": 9,
+    "L19": 10,
+    "L20": 10,
+    "L21": 11,
+    "L22": 11,
+    "L24": 12
+  },
+  "exercisePages": {
+    "L22": 1
+  },
+  "solutionPages": {
+    "L23": 1
+  },
+  "exerciseToSolution": {
+    "L22": {
+      "answerId": "L23",
+      "solutionPage": 1
+    }
+  }
+}

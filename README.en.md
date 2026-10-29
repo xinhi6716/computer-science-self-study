@@ -54,6 +54,10 @@ Start with a chapter if you want to try the notes before downloading a full cour
 
 <p align="center"><img src=".github/assets/study-divider.svg" alt="" width="850" /></p>
 
+## Materials and device foundations
+
+A new [eight-week RRAM and sputtering course](courses/rram_materials/zh-TW/README.md) is available in Traditional Chinese. It starts with basic electricity, front-loads two weeks of lab preparation, and includes a [56-day study plan](courses/rram_materials/zh-TW/study-plan.pdf), editable slides, printable notes, separate exercises and solutions, and lab-record templates. Laboratory work requires local training and supervisor approval.
+
 <a id="reading"></a>
 
 ## Reading and printing ✏️
@@ -102,3 +106,4 @@ The books and scans are not included in this repository. Each full handout also 
 [Open an issue](https://github.com/xinhi6716/computer-science-self-study/issues) with the course, language, chapter, and PDF page number. Point out the calculation or diagram step that caused the problem.
 
 Lin Cing · [CC BY 4.0](LICENSE). Retain attribution and a link to this repository when sharing or adapting the notes.
+
