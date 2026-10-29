@@ -1,8 +1,9 @@
-# Orthogonality
+# Chapter 4 · Orthogonality and least squares
 
-[Teaching slides](slides-teaching.pdf) · [2-up handout](slides-handout.pdf) · [Exercises](exercises.pdf) · [Solutions](solutions.pdf)
+Study orthogonal projections, least squares, Gram–Schmidt, and QR factorization.
+
+[Teaching slides](slides-teaching.pdf) · [Handout, two per page](slides-handout.pdf) · [Exercises](exercises.pdf) · [Worked solutions](solutions.pdf)
 
 [Chapter index](../../README.md) · [Course home](../../../README.md)
-
 
 Lin Cing · [Linear Algebra](https://github.com/xinhi6716/computer-science-self-study)
